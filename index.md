@@ -9,3 +9,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Dont worry
+- [ ] Be Happy
+- [ ] Everything will be alright
